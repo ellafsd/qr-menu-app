@@ -1,6 +1,9 @@
 # QR Menu Project
 This project is a dynamic food menu application built with HTML, CSS, JavaScript, and Bootstrap. It simulates a restaurant menu that allows users to view items by category and access a detailed view of each dish.
 
+## DEMO
+https://qr-application.netlify.app/
+
 
 ## Homepage
 
@@ -9,6 +12,16 @@ This project is a dynamic food menu application built with HTML, CSS, JavaScript
 ## Detail Page
 
 ![Product](./images/Product.png)
+
+## Breakfast
+![Product](./images/Breakfast.png)
+
+## Lunch
+![Product](./images/Lunch.png)
+
+## Drinks
+![Product](./images/Drinks.png)
+
 
 ## Technologies Used
 
