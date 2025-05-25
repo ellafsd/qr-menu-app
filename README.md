@@ -14,13 +14,13 @@ https://qr-application.netlify.app/
 ![Product](./images/Product.png)
 
 ## Breakfast
-![Product](./images/Breakfast.png)
+![Breakfast](./images/Breakfast.png)
 
 ## Lunch
-![Product](./images/Lunch.png)
+![Lunch](./images/Lunch.png)
 
 ## Drinks
-![Product](./images/Drinks.png)
+![Drinks](./images/Drinks.png)
 
 
 ## Technologies Used
